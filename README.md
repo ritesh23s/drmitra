@@ -8,25 +8,12 @@ DrMitra is a web-based platform designed to help users find doctors by location 
 📄 Responsive UI for desktop and mobile users
 💡 Clean, simple design with desi + modern feel
 
-Project Structure
-DrMitra/
-├── index.html              # Homepage with search filters
-├── all-doctors.html        # Lists all doctors
-├── about.html              # Info about the platform
-├── contact.html            # Contact form and details
-├── css/
-│   └── style.css           # All styles and responsive design
-├── js/
-│   └── script.js           # Logic for fetching, filtering, booking
-├── data/
-│   └── doctors.json        # List of all doctors with info
-
 🛠️ Tech Stack
-HTML5 – Structure
-CSS3 – Styling and layout
-JavaScript – DOM manipulation, logic, and events
-JSON – Static data source for doctors
-FontAwesome & Google Fonts – Icons and typography
+HTML5:– Structure
+CSS3:– Styling and layout
+JavaScript:– DOM manipulation, logic, and events
+JSON:– Static data source for doctors
+FontAwesome & Google Fonts:– Icons and typography
 
 🚀 How to Use
 1. Clone or download the project folder.
@@ -35,15 +22,6 @@ FontAwesome & Google Fonts – Icons and typography
 4. Browse through filtered doctors.
 5. Click "Book Appointment" and fill the form.
 ⚠️ No backend integration is included yet. Appointment data is not stored or sent anywhere (alert only).
-
-Sample Doctor JSON Format
-{
-  "name": "Dr. Priya Sharma",
-  "department": "Cardiologist",
-  "location": "Delhi",
-  "image": "images/priya.jpg",
-  "time": "10:00 AM - 4:00 PM"
-}
 
 
 📬 Contact
