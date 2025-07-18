@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DrMitra</title>
+  <link rel="shortcut icon" href="images/fav.png" type="image/x-icon">
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+
+  <header>
+    <ul class="navbar">
+      <div class="logo">
+        <span class="fisrtspan">Dr</span><span class="secondspan">Mitra</span>
+      </div>
+      <div class="navigation">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="all-doctors.html">All Doctors</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </div>
+    </ul>
+  </header>
+
+  <div class="main-container">
+    <section class="intro">
+      <h1>Find a Doctor Near You 🩺</h1>
+      <p>Select your location and department to search.</p>
+    </section>
+
+    <div class="filters">
+      <select id="locationSelect">
+        <option value="">Choose Location</option>
+        <option value="Agra">Agra</option>
+        <option value="Ahmedabad">Ahmedabad</option>
+        <option value="Aligarh">Aligarh</option>
+        <option value="Amritsar">Amritsar</option>
+        <option value="Bhopal">Bhopal</option>
+        <option value="Bhagalpur">Bhagalpur</option>
+        <option value="Chandigarh">Chandigarh</option>
+        <option value="Darbhanga">Darbhanga</option>
+        <option value="Delhi">Delhi</option>
+        <option value="Gaya">Gaya</option>
+        <option value="Gorakhpur">Gorakhpur</option>
+        <option value="Indore">Indore</option>
+        <option value="Jaipur">Jaipur</option>
+        <option value="Jamshedpur">Jamshedpur</option>
+        <option value="Kanpur">Kanpur</option>
+        <option value="Kolkata">Kolkata</option>
+        <option value="Lucknow">Lucknow</option>
+        <option value="Madhubani">Madhubani</option>
+        <option value="Meerut">Meerut</option>
+        <option value="Mumbai">Mumbai</option>
+        <option value="Nagpur">Nagpur</option>
+        <option value="Noida">Noida</option>
+        <option value="Patna">Patna</option>
+        <option value="Pune">Pune</option>
+        <option value="Raipur">Raipur</option>
+        <option value="Ranchi">Ranchi</option>
+        <option value="Siliguri">Siliguri</option>
+        <option value="Varanasi">Varanasi</option>
+      </select>
+
+      <select id="departmentSelect">
+        <option value="">Choose Department</option>
+        <option value="Cardiologist">Cardiologist</option>
+        <option value="Dentist">Dentist</option>
+        <option value="Dermatologist">Dermatologist</option>
+        <option value="Neurologist">Neurologist</option>
+        <option value="ENT Specialist">ENT Specialist</option>
+        <option value="Orthopedic">Orthopedic</option>
+        <option value="Psychiatrist">Psychiatrist</option>
+        <option value="Pediatrician">Pediatrician</option>
+        <option value="Gynaecologist">Gynaecologist</option>
+        <option value="Physiotherapist">Physiotherapist</option>
+      </select>
+
+      <button onclick="searchDoctors()">Search 🔍</button>
+    </div>
+
+    <div id="results" class="results"></div>
+  </div>
+
+  <div class="modal" id="appointmentModal">
+    <div class="modal-content">
+      <span class="close" onclick="closeForm()">&times;</span>
+      <h2>Book Appointment</h2>
+      <form id="appointmentForm">
+        <input type="text" id="doctorName" name="doctorName" readonly />
+        <input type="text" name="yourName" placeholder="Your Name" required />
+        <input type="text" name="yourPhone" placeholder="Phone Number" required />
+        <input type="date" name="appointmentDate" required />
+        <button type="submit">Confirm Appointment</button>
+      </form>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 DrMitra.com All rights reserved </p>
+  </footer>
+  <script src="js/script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>All Doctors - DrMitra</title>
+    <link rel="shortcut icon" href="images/fav.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        <ul class="navbar">
+            <div class="logo">
+                <span class="fisrtspan">Dr</span><span class="secondspan">Mitra</span>
+            </div>
+            <div class="navigation">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="all-doctors.html">All Doctors</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </div>
+        </ul>
+    </header>
+
+    <div class="main-container">
+        <section class="intro">
+            <h1>All Available Doctors 👨‍⚕️👩‍⚕️</h1>
+            <p>Browse through our complete list of medical professionals.</p>
+        </section>
+
+        <div id="results" class="results"></div>
+    </div>
+
+    <div class="modal" id="appointmentModal">
+        <div class="modal-content">
+            <span class="close" onclick="closeForm()">&times;</span>
+            <h2>Book Appointment</h2>
+            <form id="appointmentForm">
+                <input type="text" id="doctorName" name="doctorName" readonly />
+                <input type="text" name="yourName" placeholder="Your Name" required />
+                <input type="text" name="yourPhone" placeholder="Phone Number" required />
+                <input type="date" name="appointmentDate" required />
+                <button type="submit">Confirm Appointment</button>
+            </form>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 DrMitra.com All rights reserved </p>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

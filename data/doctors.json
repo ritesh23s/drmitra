@@ -1,0 +1,3215 @@
+[
+  {
+    "name": "Dr. Nitya Singh",
+    "department": "Cardiologist",
+    "location": "Delhi",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/nitya_singh_1.jpg"
+  },
+  {
+    "name": "Dr. Riya Patel",
+    "department": "Dentist",
+    "location": "Delhi",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/riya_patel_2.jpg"
+  },
+  {
+    "name": "Dr. Aditi Bansal",
+    "department": "Dentist",
+    "location": "Delhi",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/aditi_bansal_3.jpg"
+  },
+  {
+    "name": "Dr. Riya Singh",
+    "department": "Dermatologist",
+    "location": "Delhi",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/riya_singh_4.jpg"
+  },
+  {
+    "name": "Dr. Priya Thakur",
+    "department": "Dermatologist",
+    "location": "Delhi",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/priya_thakur_5.jpg"
+  },
+  {
+    "name": "Dr. Nitya Thakur",
+    "department": "Dermatologist",
+    "location": "Delhi",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/nitya_thakur_6.jpg"
+  },
+  {
+    "name": "Dr. Komal Mehra",
+    "department": "Dermatologist",
+    "location": "Delhi",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/komal_mehra_7.jpg"
+  },
+  {
+    "name": "Dr. Sahil Bansal",
+    "department": "Neurologist",
+    "location": "Delhi",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/sahil_bansal_8.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Singh",
+    "department": "ENT Specialist",
+    "location": "Delhi",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/dinesh_singh_9.jpg"
+  },
+  {
+    "name": "Dr. Isha Yadav",
+    "department": "Orthopedic",
+    "location": "Delhi",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/isha_yadav_10.jpg"
+  },
+  {
+    "name": "Dr. Priya Kashyap",
+    "department": "Psychiatrist",
+    "location": "Delhi",
+    "time": "8:00 AM - 3:00 PM",
+    "image": "images/priya_kashyap_11.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Tripathi",
+    "department": "Psychiatrist",
+    "location": "Delhi",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/dinesh_tripathi_12.jpg"
+  },
+  {
+    "name": "Dr. Alok Srivastava",
+    "department": "Pediatrician",
+    "location": "Delhi",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/alok_srivastava_13.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Bansal",
+    "department": "Pediatrician",
+    "location": "Delhi",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/dinesh_bansal_14.jpg"
+  },
+  {
+    "name": "Dr. Sahil Kashyap",
+    "department": "Gynaecologist",
+    "location": "Delhi",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/sahil_kashyap_15.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Kapoor",
+    "department": "Physiotherapist",
+    "location": "Delhi",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/dinesh_kapoor_16.jpg"
+  },
+  {
+    "name": "Dr. Imran Jain",
+    "department": "Cardiologist",
+    "location": "Mumbai",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/imran_jain_17.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Mehra",
+    "department": "Cardiologist",
+    "location": "Mumbai",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/rakesh_mehra_18.jpg"
+  },
+  {
+    "name": "Dr. Neha Srivastava",
+    "department": "Dentist",
+    "location": "Mumbai",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/neha_srivastava_19.jpg"
+  },
+  {
+    "name": "Dr. Neha Kapoor",
+    "department": "Dentist",
+    "location": "Mumbai",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/neha_kapoor_20.jpg"
+  },
+  {
+    "name": "Dr. Meera Chauhan",
+    "department": "Dermatologist",
+    "location": "Mumbai",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/meera_chauhan_21.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Jain",
+    "department": "Dermatologist",
+    "location": "Mumbai",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/dinesh_jain_22.jpg"
+  },
+  {
+    "name": "Dr. Nitya Jain",
+    "department": "Neurologist",
+    "location": "Mumbai",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/nitya_jain_23.jpg"
+  },
+  {
+    "name": "Dr. Isha Sharma",
+    "department": "ENT Specialist",
+    "location": "Mumbai",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/isha_sharma_24.jpg"
+  },
+  {
+    "name": "Dr. Sahil Kashyap",
+    "department": "Orthopedic",
+    "location": "Mumbai",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/sahil_kashyap_25.jpg"
+  },
+  {
+    "name": "Dr. Rahul Kashyap",
+    "department": "Orthopedic",
+    "location": "Mumbai",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/rahul_kashyap_26.jpg"
+  },
+  {
+    "name": "Dr. Dipthi Mehra",
+    "department": "Psychiatrist",
+    "location": "Mumbai",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/dipthi_mehra_27.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Bansal",
+    "department": "Psychiatrist",
+    "location": "Mumbai",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/rakesh_bansal_28.jpg"
+  },
+  {
+    "name": "Dr. Sameer Tripathi",
+    "department": "Pediatrician",
+    "location": "Mumbai",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/sameer_tripathi_29.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Kapoor",
+    "department": "Gynaecologist",
+    "location": "Mumbai",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/rakesh_kapoor_30.jpg"
+  },
+  {
+    "name": "Dr. Anjali Patel",
+    "department": "Physiotherapist",
+    "location": "Mumbai",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/anjali_patel_31.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Verma",
+    "department": "Cardiologist",
+    "location": "Patna",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/rakesh_verma_32.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Gupta",
+    "department": "Cardiologist",
+    "location": "Patna",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/rakesh_gupta_33.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Verma",
+    "department": "Dentist",
+    "location": "Patna",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/rakesh_verma_34.jpg"
+  },
+  {
+    "name": "Dr. Alok Bhandari",
+    "department": "Dermatologist",
+    "location": "Patna",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/alok_bhandari_35.jpg"
+  },
+  {
+    "name": "Dr. Neha Khan",
+    "department": "Dermatologist",
+    "location": "Patna",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/neha_khan_36.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Thakur",
+    "department": "Neurologist",
+    "location": "Patna",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/rakesh_thakur_37.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Mehra",
+    "department": "Neurologist",
+    "location": "Patna",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/rakesh_mehra_38.jpg"
+  },
+  {
+    "name": "Dr. Arjun Nair",
+    "department": "ENT Specialist",
+    "location": "Patna",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/arjun_nair_39.jpg"
+  },
+  {
+    "name": "Dr. Vivek Patel",
+    "department": "ENT Specialist",
+    "location": "Patna",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/vivek_patel_40.jpg"
+  },
+  {
+    "name": "Dr. Imran Khan",
+    "department": "Orthopedic",
+    "location": "Patna",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/imran_khan_41.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Tripathi",
+    "department": "Psychiatrist",
+    "location": "Patna",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/rakesh_tripathi_42.jpg"
+  },
+  {
+    "name": "Dr. Imran Yadav",
+    "department": "Pediatrician",
+    "location": "Patna",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/imran_yadav_43.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Gupta",
+    "department": "Gynaecologist",
+    "location": "Patna",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/sanjay_gupta_44.jpg"
+  },
+  {
+    "name": "Dr. Alok Khan",
+    "department": "Physiotherapist",
+    "location": "Patna",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/alok_khan_45.jpg"
+  },
+  {
+    "name": "Dr. Nitya Mehra",
+    "department": "Physiotherapist",
+    "location": "Patna",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/nitya_mehra_46.jpg"
+  },
+  {
+    "name": "Dr. Dipthi Das",
+    "department": "Cardiologist",
+    "location": "Kolkata",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/dipthi_das_47.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Bhandari",
+    "department": "Dentist",
+    "location": "Kolkata",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/sheetal_bhandari_48.jpg"
+  },
+  {
+    "name": "Dr. Riya Yadav",
+    "department": "Dermatologist",
+    "location": "Kolkata",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/riya_yadav_49.jpg"
+  },
+  {
+    "name": "Dr. Riya Khan",
+    "department": "Dermatologist",
+    "location": "Kolkata",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/riya_khan_50.jpg"
+  },
+  {
+    "name": "Dr. Kavita Bansal",
+    "department": "Dermatologist",
+    "location": "Kolkata",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/kavita_bansal_51.jpg"
+  },
+  {
+    "name": "Dr. Meera Srivastava",
+    "department": "Neurologist",
+    "location": "Kolkata",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/meera_srivastava_52.jpg"
+  },
+  {
+    "name": "Dr. Priya Sharma",
+    "department": "ENT Specialist",
+    "location": "Kolkata",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/priya_sharma_53.jpg"
+  },
+  {
+    "name": "Dr. Riya Rastogi",
+    "department": "ENT Specialist",
+    "location": "Kolkata",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/riya_rastogi_54.jpg"
+  },
+  {
+    "name": "Dr. Alok Nair",
+    "department": "Orthopedic",
+    "location": "Kolkata",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/alok_nair_55.jpg"
+  },
+  {
+    "name": "Dr. Manish Bhandari",
+    "department": "Orthopedic",
+    "location": "Kolkata",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/manish_bhandari_56.jpg"
+  },
+  {
+    "name": "Dr. Kavita Khan",
+    "department": "Psychiatrist",
+    "location": "Kolkata",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/kavita_khan_57.jpg"
+  },
+  {
+    "name": "Dr. Imran Mehra",
+    "department": "Pediatrician",
+    "location": "Kolkata",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/imran_mehra_58.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Thakur",
+    "department": "Gynaecologist",
+    "location": "Kolkata",
+    "time": "8:00 AM - 3:00 PM",
+    "image": "images/rakesh_thakur_59.jpg"
+  },
+  {
+    "name": "Dr. Kavita Kapoor",
+    "department": "Gynaecologist",
+    "location": "Kolkata",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/kavita_kapoor_60.jpg"
+  },
+  {
+    "name": "Dr. Nitya Yadav",
+    "department": "Physiotherapist",
+    "location": "Kolkata",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/nitya_yadav_61.jpg"
+  },
+  {
+    "name": "Dr. Priya Kashyap",
+    "department": "Cardiologist",
+    "location": "Gaya",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/priya_kashyap_62.jpg"
+  },
+  {
+    "name": "Dr. Sahil Kashyap",
+    "department": "Cardiologist",
+    "location": "Gaya",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/sahil_kashyap_63.jpg"
+  },
+  {
+    "name": "Dr. Aditi Nair",
+    "department": "Dentist",
+    "location": "Gaya",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/aditi_nair_64.jpg"
+  },
+  {
+    "name": "Dr. Isha Khan",
+    "department": "Dermatologist",
+    "location": "Gaya",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/isha_khan_65.jpg"
+  },
+  {
+    "name": "Dr. Nitya Bhandari",
+    "department": "Dermatologist",
+    "location": "Gaya",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/nitya_bhandari_66.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Nair",
+    "department": "Dermatologist",
+    "location": "Gaya",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/rakesh_nair_67.jpg"
+  },
+  {
+    "name": "Dr. Sameer Verma",
+    "department": "Neurologist",
+    "location": "Gaya",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/sameer_verma_68.jpg"
+  },
+  {
+    "name": "Dr. Anjali Jain",
+    "department": "Neurologist",
+    "location": "Gaya",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/anjali_jain_69.jpg"
+  },
+  {
+    "name": "Dr. Kavita Mehra",
+    "department": "ENT Specialist",
+    "location": "Gaya",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/kavita_mehra_70.jpg"
+  },
+  {
+    "name": "Dr. Manish Jain",
+    "department": "ENT Specialist",
+    "location": "Gaya",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/manish_jain_71.jpg"
+  },
+  {
+    "name": "Dr. Meera Gupta",
+    "department": "Orthopedic",
+    "location": "Gaya",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/meera_gupta_72.jpg"
+  },
+  {
+    "name": "Dr. Nitya Srivastava",
+    "department": "Orthopedic",
+    "location": "Gaya",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/nitya_srivastava_73.jpg"
+  },
+  {
+    "name": "Dr. Manish Patel",
+    "department": "Psychiatrist",
+    "location": "Gaya",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/manish_patel_74.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Patel",
+    "department": "Psychiatrist",
+    "location": "Gaya",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/sanjay_patel_75.jpg"
+  },
+  {
+    "name": "Dr. Deepak Gupta",
+    "department": "Pediatrician",
+    "location": "Gaya",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/deepak_gupta_76.jpg"
+  },
+  {
+    "name": "Dr. Komal Sharma",
+    "department": "Gynaecologist",
+    "location": "Gaya",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/komal_sharma_77.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Chauhan",
+    "department": "Gynaecologist",
+    "location": "Gaya",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/rakesh_chauhan_78.jpg"
+  },
+  {
+    "name": "Dr. Vivek Bhandari",
+    "department": "Physiotherapist",
+    "location": "Gaya",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/vivek_bhandari_79.jpg"
+  },
+  {
+    "name": "Dr. Isha Mehra",
+    "department": "Cardiologist",
+    "location": "Varanasi",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/isha_mehra_80.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Singh",
+    "department": "Cardiologist",
+    "location": "Varanasi",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/sheetal_singh_81.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Das",
+    "department": "Dentist",
+    "location": "Varanasi",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/sheetal_das_82.jpg"
+  },
+  {
+    "name": "Dr. Imran Mehra",
+    "department": "Dermatologist",
+    "location": "Varanasi",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/imran_mehra_83.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Nair",
+    "department": "Dermatologist",
+    "location": "Varanasi",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/dinesh_nair_84.jpg"
+  },
+  {
+    "name": "Dr. Vivek Kashyap",
+    "department": "Dermatologist",
+    "location": "Varanasi",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/vivek_kashyap_85.jpg"
+  },
+  {
+    "name": "Dr. Meera Sharma",
+    "department": "Neurologist",
+    "location": "Varanasi",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/meera_sharma_86.jpg"
+  },
+  {
+    "name": "Dr. Meera Das",
+    "department": "ENT Specialist",
+    "location": "Varanasi",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/meera_das_87.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Chauhan",
+    "department": "Orthopedic",
+    "location": "Varanasi",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/sanjay_chauhan_88.jpg"
+  },
+  {
+    "name": "Dr. Komal Bhandari",
+    "department": "Psychiatrist",
+    "location": "Varanasi",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/komal_bhandari_89.jpg"
+  },
+  {
+    "name": "Dr. Isha Bansal",
+    "department": "Pediatrician",
+    "location": "Varanasi",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/isha_bansal_90.jpg"
+  },
+  {
+    "name": "Dr. Deepak Bansal",
+    "department": "Pediatrician",
+    "location": "Varanasi",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/deepak_bansal_91.jpg"
+  },
+  {
+    "name": "Dr. Anjali Kashyap",
+    "department": "Gynaecologist",
+    "location": "Varanasi",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/anjali_kashyap_92.jpg"
+  },
+  {
+    "name": "Dr. Sahil Rastogi",
+    "department": "Physiotherapist",
+    "location": "Varanasi",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/sahil_rastogi_93.jpg"
+  },
+  {
+    "name": "Dr. Nitya Sharma",
+    "department": "Physiotherapist",
+    "location": "Varanasi",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/nitya_sharma_94.jpg"
+  },
+  {
+    "name": "Dr. Isha Verma",
+    "department": "Cardiologist",
+    "location": "Lucknow",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/isha_verma_95.jpg"
+  },
+  {
+    "name": "Dr. Arjun Jain",
+    "department": "Dentist",
+    "location": "Lucknow",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/arjun_jain_96.jpg"
+  },
+  {
+    "name": "Dr. Kavita Patel",
+    "department": "Dentist",
+    "location": "Lucknow",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/kavita_patel_97.jpg"
+  },
+  {
+    "name": "Dr. Sameer Bansal",
+    "department": "Dermatologist",
+    "location": "Lucknow",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/sameer_bansal_98.jpg"
+  },
+  {
+    "name": "Dr. Deepak Patel",
+    "department": "Dermatologist",
+    "location": "Lucknow",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/deepak_patel_99.jpg"
+  },
+  {
+    "name": "Dr. Sahil Mehra",
+    "department": "Dermatologist",
+    "location": "Lucknow",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/sahil_mehra_100.jpg"
+  },
+  {
+    "name": "Dr. Isha Yadav",
+    "department": "Dermatologist",
+    "location": "Lucknow",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/isha_yadav_101.jpg"
+  },
+  {
+    "name": "Dr. Imran Singh",
+    "department": "Neurologist",
+    "location": "Lucknow",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/imran_singh_102.jpg"
+  },
+  {
+    "name": "Dr. Meera Singh",
+    "department": "Neurologist",
+    "location": "Lucknow",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/meera_singh_103.jpg"
+  },
+  {
+    "name": "Dr. Aditi Nair",
+    "department": "ENT Specialist",
+    "location": "Lucknow",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/aditi_nair_104.jpg"
+  },
+  {
+    "name": "Dr. Manish Tripathi",
+    "department": "Orthopedic",
+    "location": "Lucknow",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/manish_tripathi_105.jpg"
+  },
+  {
+    "name": "Dr. Sahil Bhandari",
+    "department": "Psychiatrist",
+    "location": "Lucknow",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/sahil_bhandari_106.jpg"
+  },
+  {
+    "name": "Dr. Dipthi Yadav",
+    "department": "Psychiatrist",
+    "location": "Lucknow",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/dipthi_yadav_107.jpg"
+  },
+  {
+    "name": "Dr. Alok Kashyap",
+    "department": "Pediatrician",
+    "location": "Lucknow",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/alok_kashyap_108.jpg"
+  },
+  {
+    "name": "Dr. Neha Bansal",
+    "department": "Pediatrician",
+    "location": "Lucknow",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/neha_bansal_109.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Jain",
+    "department": "Gynaecologist",
+    "location": "Lucknow",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/sheetal_jain_110.jpg"
+  },
+  {
+    "name": "Dr. Priya Kapoor",
+    "department": "Physiotherapist",
+    "location": "Lucknow",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/priya_kapoor_111.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Kashyap",
+    "department": "Cardiologist",
+    "location": "Jaipur",
+    "time": "8:00 AM - 3:00 PM",
+    "image": "images/sheetal_kashyap_112.jpg"
+  },
+  {
+    "name": "Dr. Komal Singh",
+    "department": "Dentist",
+    "location": "Jaipur",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/komal_singh_113.jpg"
+  },
+  {
+    "name": "Dr. Anjali Srivastava",
+    "department": "Dentist",
+    "location": "Jaipur",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/anjali_srivastava_114.jpg"
+  },
+  {
+    "name": "Dr. Manish Jain",
+    "department": "Dermatologist",
+    "location": "Jaipur",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/manish_jain_115.jpg"
+  },
+  {
+    "name": "Dr. Neha Verma",
+    "department": "Dermatologist",
+    "location": "Jaipur",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/neha_verma_116.jpg"
+  },
+  {
+    "name": "Dr. Manish Kapoor",
+    "department": "Neurologist",
+    "location": "Jaipur",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/manish_kapoor_117.jpg"
+  },
+  {
+    "name": "Dr. Priya Gupta",
+    "department": "ENT Specialist",
+    "location": "Jaipur",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/priya_gupta_118.jpg"
+  },
+  {
+    "name": "Dr. Kavita Sharma",
+    "department": "Orthopedic",
+    "location": "Jaipur",
+    "time": "8:00 AM - 3:00 PM",
+    "image": "images/kavita_sharma_119.jpg"
+  },
+  {
+    "name": "Dr. Manish Mehra",
+    "department": "Psychiatrist",
+    "location": "Jaipur",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/manish_mehra_120.jpg"
+  },
+  {
+    "name": "Dr. Komal Khan",
+    "department": "Pediatrician",
+    "location": "Jaipur",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/komal_khan_121.jpg"
+  },
+  {
+    "name": "Dr. Sameer Tripathi",
+    "department": "Gynaecologist",
+    "location": "Jaipur",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/sameer_tripathi_122.jpg"
+  },
+  {
+    "name": "Dr. Vivek Tripathi",
+    "department": "Gynaecologist",
+    "location": "Jaipur",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/vivek_tripathi_123.jpg"
+  },
+  {
+    "name": "Dr. Isha Gupta",
+    "department": "Physiotherapist",
+    "location": "Jaipur",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/isha_gupta_124.jpg"
+  },
+  {
+    "name": "Dr. Manish Tripathi",
+    "department": "Physiotherapist",
+    "location": "Jaipur",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/manish_tripathi_125.jpg"
+  },
+  {
+    "name": "Dr. Meera Gupta",
+    "department": "Cardiologist",
+    "location": "Chandigarh",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/meera_gupta_126.jpg"
+  },
+  {
+    "name": "Dr. Riya Rastogi",
+    "department": "Dentist",
+    "location": "Chandigarh",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/riya_rastogi_127.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Patel",
+    "department": "Dermatologist",
+    "location": "Chandigarh",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/sheetal_patel_128.jpg"
+  },
+  {
+    "name": "Dr. Alok Singh",
+    "department": "Dermatologist",
+    "location": "Chandigarh",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/alok_singh_129.jpg"
+  },
+  {
+    "name": "Dr. Komal Gupta",
+    "department": "Dermatologist",
+    "location": "Chandigarh",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/komal_gupta_130.jpg"
+  },
+  {
+    "name": "Dr. Imran Sharma",
+    "department": "Neurologist",
+    "location": "Chandigarh",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/imran_sharma_131.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Jain",
+    "department": "ENT Specialist",
+    "location": "Chandigarh",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/sheetal_jain_132.jpg"
+  },
+  {
+    "name": "Dr. Rahul Yadav",
+    "department": "ENT Specialist",
+    "location": "Chandigarh",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/rahul_yadav_133.jpg"
+  },
+  {
+    "name": "Dr. Nitya Sharma",
+    "department": "Orthopedic",
+    "location": "Chandigarh",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/nitya_sharma_134.jpg"
+  },
+  {
+    "name": "Dr. Nitya Verma",
+    "department": "Orthopedic",
+    "location": "Chandigarh",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/nitya_verma_135.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Verma",
+    "department": "Psychiatrist",
+    "location": "Chandigarh",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/sheetal_verma_136.jpg"
+  },
+  {
+    "name": "Dr. Sameer Bansal",
+    "department": "Pediatrician",
+    "location": "Chandigarh",
+    "time": "8:00 AM - 3:00 PM",
+    "image": "images/sameer_bansal_137.jpg"
+  },
+  {
+    "name": "Dr. Sahil Jain",
+    "department": "Pediatrician",
+    "location": "Chandigarh",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/sahil_jain_138.jpg"
+  },
+  {
+    "name": "Dr. Rahul Sharma",
+    "department": "Gynaecologist",
+    "location": "Chandigarh",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/rahul_sharma_139.jpg"
+  },
+  {
+    "name": "Dr. Komal Sharma",
+    "department": "Gynaecologist",
+    "location": "Chandigarh",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/komal_sharma_140.jpg"
+  },
+  {
+    "name": "Dr. Neha Jain",
+    "department": "Physiotherapist",
+    "location": "Chandigarh",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/neha_jain_141.jpg"
+  },
+  {
+    "name": "Dr. Alok Yadav",
+    "department": "Physiotherapist",
+    "location": "Chandigarh",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/alok_yadav_142.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Jain",
+    "department": "Cardiologist",
+    "location": "Indore",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/sanjay_jain_143.jpg"
+  },
+  {
+    "name": "Dr. Aditi Patel",
+    "department": "Dentist",
+    "location": "Indore",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/aditi_patel_144.jpg"
+  },
+  {
+    "name": "Dr. Neha Patel",
+    "department": "Dentist",
+    "location": "Indore",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/neha_patel_145.jpg"
+  },
+  {
+    "name": "Dr. Isha Tripathi",
+    "department": "Dermatologist",
+    "location": "Indore",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/isha_tripathi_146.jpg"
+  },
+  {
+    "name": "Dr. Isha Thakur",
+    "department": "Dermatologist",
+    "location": "Indore",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/isha_thakur_147.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Chauhan",
+    "department": "Neurologist",
+    "location": "Indore",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/sheetal_chauhan_148.jpg"
+  },
+  {
+    "name": "Dr. Nitya Thakur",
+    "department": "Neurologist",
+    "location": "Indore",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/nitya_thakur_149.jpg"
+  },
+  {
+    "name": "Dr. Isha Gupta",
+    "department": "ENT Specialist",
+    "location": "Indore",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/isha_gupta_150.jpg"
+  },
+  {
+    "name": "Dr. Anjali Srivastava",
+    "department": "Orthopedic",
+    "location": "Indore",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/anjali_srivastava_151.jpg"
+  },
+  {
+    "name": "Dr. Komal Chauhan",
+    "department": "Orthopedic",
+    "location": "Indore",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/komal_chauhan_152.jpg"
+  },
+  {
+    "name": "Dr. Neha Bansal",
+    "department": "Psychiatrist",
+    "location": "Indore",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/neha_bansal_153.jpg"
+  },
+  {
+    "name": "Dr. Arjun Sharma",
+    "department": "Pediatrician",
+    "location": "Indore",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/arjun_sharma_154.jpg"
+  },
+  {
+    "name": "Dr. Alok Thakur",
+    "department": "Gynaecologist",
+    "location": "Indore",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/alok_thakur_155.jpg"
+  },
+  {
+    "name": "Dr. Dipthi Rastogi",
+    "department": "Physiotherapist",
+    "location": "Indore",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/dipthi_rastogi_156.jpg"
+  },
+  {
+    "name": "Dr. Isha Nair",
+    "department": "Physiotherapist",
+    "location": "Indore",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/isha_nair_157.jpg"
+  },
+  {
+    "name": "Dr. Sameer Rastogi",
+    "department": "Cardiologist",
+    "location": "Pune",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/sameer_rastogi_158.jpg"
+  },
+  {
+    "name": "Dr. Sameer Singh",
+    "department": "Dentist",
+    "location": "Pune",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/sameer_singh_159.jpg"
+  },
+  {
+    "name": "Dr. Imran Nair",
+    "department": "Dentist",
+    "location": "Pune",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/imran_nair_160.jpg"
+  },
+  {
+    "name": "Dr. Kavita Bansal",
+    "department": "Dermatologist",
+    "location": "Pune",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/kavita_bansal_161.jpg"
+  },
+  {
+    "name": "Dr. Anjali Kapoor",
+    "department": "Dermatologist",
+    "location": "Pune",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/anjali_kapoor_162.jpg"
+  },
+  {
+    "name": "Dr. Manish Khan",
+    "department": "Dermatologist",
+    "location": "Pune",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/manish_khan_163.jpg"
+  },
+  {
+    "name": "Dr. Rahul Thakur",
+    "department": "Neurologist",
+    "location": "Pune",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/rahul_thakur_164.jpg"
+  },
+  {
+    "name": "Dr. Neha Mehra",
+    "department": "Neurologist",
+    "location": "Pune",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/neha_mehra_165.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Bansal",
+    "department": "ENT Specialist",
+    "location": "Pune",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/dinesh_bansal_166.jpg"
+  },
+  {
+    "name": "Dr. Isha Mehra",
+    "department": "ENT Specialist",
+    "location": "Pune",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/isha_mehra_167.jpg"
+  },
+  {
+    "name": "Dr. Arjun Yadav",
+    "department": "Orthopedic",
+    "location": "Pune",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/arjun_yadav_168.jpg"
+  },
+  {
+    "name": "Dr. Kavita Jain",
+    "department": "Orthopedic",
+    "location": "Pune",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/kavita_jain_169.jpg"
+  },
+  {
+    "name": "Dr. Nitya Tripathi",
+    "department": "Psychiatrist",
+    "location": "Pune",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/nitya_tripathi_170.jpg"
+  },
+  {
+    "name": "Dr. Priya Khan",
+    "department": "Pediatrician",
+    "location": "Pune",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/priya_khan_171.jpg"
+  },
+  {
+    "name": "Dr. Kavita Rastogi",
+    "department": "Pediatrician",
+    "location": "Pune",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/kavita_rastogi_172.jpg"
+  },
+  {
+    "name": "Dr. Sameer Tripathi",
+    "department": "Gynaecologist",
+    "location": "Pune",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/sameer_tripathi_173.jpg"
+  },
+  {
+    "name": "Dr. Anjali Yadav",
+    "department": "Physiotherapist",
+    "location": "Pune",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/anjali_yadav_174.jpg"
+  },
+  {
+    "name": "Dr. Deepak Chauhan",
+    "department": "Physiotherapist",
+    "location": "Pune",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/deepak_chauhan_175.jpg"
+  },
+  {
+    "name": "Dr. Arjun Thakur",
+    "department": "Cardiologist",
+    "location": "Noida",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/arjun_thakur_176.jpg"
+  },
+  {
+    "name": "Dr. Dipthi Kapoor",
+    "department": "Dentist",
+    "location": "Noida",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/dipthi_kapoor_177.jpg"
+  },
+  {
+    "name": "Dr. Manish Verma",
+    "department": "Dentist",
+    "location": "Noida",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/manish_verma_178.jpg"
+  },
+  {
+    "name": "Dr. Vivek Bansal",
+    "department": "Dermatologist",
+    "location": "Noida",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/vivek_bansal_179.jpg"
+  },
+  {
+    "name": "Dr. Meera Verma",
+    "department": "Dermatologist",
+    "location": "Noida",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/meera_verma_180.jpg"
+  },
+  {
+    "name": "Dr. Aditi Mehra",
+    "department": "Dermatologist",
+    "location": "Noida",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/aditi_mehra_181.jpg"
+  },
+  {
+    "name": "Dr. Manish Kapoor",
+    "department": "Neurologist",
+    "location": "Noida",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/manish_kapoor_182.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Singh",
+    "department": "Neurologist",
+    "location": "Noida",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/sanjay_singh_183.jpg"
+  },
+  {
+    "name": "Dr. Priya Jain",
+    "department": "ENT Specialist",
+    "location": "Noida",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/priya_jain_184.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Das",
+    "department": "ENT Specialist",
+    "location": "Noida",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/dinesh_das_185.jpg"
+  },
+  {
+    "name": "Dr. Dipthi Gupta",
+    "department": "Orthopedic",
+    "location": "Noida",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/dipthi_gupta_186.jpg"
+  },
+  {
+    "name": "Dr. Meera Patel",
+    "department": "Orthopedic",
+    "location": "Noida",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/meera_patel_187.jpg"
+  },
+  {
+    "name": "Dr. Kavita Gupta",
+    "department": "Psychiatrist",
+    "location": "Noida",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/kavita_gupta_188.jpg"
+  },
+  {
+    "name": "Dr. Aditi Singh",
+    "department": "Psychiatrist",
+    "location": "Noida",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/aditi_singh_189.jpg"
+  },
+  {
+    "name": "Dr. Arjun Rastogi",
+    "department": "Pediatrician",
+    "location": "Noida",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/arjun_rastogi_190.jpg"
+  },
+  {
+    "name": "Dr. Neha Bansal",
+    "department": "Pediatrician",
+    "location": "Noida",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/neha_bansal_191.jpg"
+  },
+  {
+    "name": "Dr. Aditi Kashyap",
+    "department": "Gynaecologist",
+    "location": "Noida",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/aditi_kashyap_192.jpg"
+  },
+  {
+    "name": "Dr. Isha Nair",
+    "department": "Physiotherapist",
+    "location": "Noida",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/isha_nair_193.jpg"
+  },
+  {
+    "name": "Dr. Manish Yadav",
+    "department": "Cardiologist",
+    "location": "Ranchi",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/manish_yadav_194.jpg"
+  },
+  {
+    "name": "Dr. Komal Sharma",
+    "department": "Dentist",
+    "location": "Ranchi",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/komal_sharma_195.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Kashyap",
+    "department": "Dermatologist",
+    "location": "Ranchi",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/sanjay_kashyap_196.jpg"
+  },
+  {
+    "name": "Dr. Priya Bhandari",
+    "department": "Dermatologist",
+    "location": "Ranchi",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/priya_bhandari_197.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Chauhan",
+    "department": "Neurologist",
+    "location": "Ranchi",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/rakesh_chauhan_198.jpg"
+  },
+  {
+    "name": "Dr. Sameer Singh",
+    "department": "Neurologist",
+    "location": "Ranchi",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/sameer_singh_199.jpg"
+  },
+  {
+    "name": "Dr. Meera Kashyap",
+    "department": "ENT Specialist",
+    "location": "Ranchi",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/meera_kashyap_200.jpg"
+  },
+  {
+    "name": "Dr. Riya Jain",
+    "department": "ENT Specialist",
+    "location": "Ranchi",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/riya_jain_201.jpg"
+  },
+  {
+    "name": "Dr. Manish Mehra",
+    "department": "Orthopedic",
+    "location": "Ranchi",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/manish_mehra_202.jpg"
+  },
+  {
+    "name": "Dr. Sahil Sharma",
+    "department": "Orthopedic",
+    "location": "Ranchi",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/sahil_sharma_203.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Rastogi",
+    "department": "Psychiatrist",
+    "location": "Ranchi",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/sanjay_rastogi_204.jpg"
+  },
+  {
+    "name": "Dr. Imran Das",
+    "department": "Pediatrician",
+    "location": "Ranchi",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/imran_das_205.jpg"
+  },
+  {
+    "name": "Dr. Manish Das",
+    "department": "Pediatrician",
+    "location": "Ranchi",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/manish_das_206.jpg"
+  },
+  {
+    "name": "Dr. Kavita Rastogi",
+    "department": "Gynaecologist",
+    "location": "Ranchi",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/kavita_rastogi_207.jpg"
+  },
+  {
+    "name": "Dr. Sahil Srivastava",
+    "department": "Physiotherapist",
+    "location": "Ranchi",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/sahil_srivastava_208.jpg"
+  },
+  {
+    "name": "Dr. Vivek Bansal",
+    "department": "Cardiologist",
+    "location": "Bhopal",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/vivek_bansal_209.jpg"
+  },
+  {
+    "name": "Dr. Aditi Srivastava",
+    "department": "Dentist",
+    "location": "Bhopal",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/aditi_srivastava_210.jpg"
+  },
+  {
+    "name": "Dr. Rahul Mehra",
+    "department": "Dermatologist",
+    "location": "Bhopal",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/rahul_mehra_211.jpg"
+  },
+  {
+    "name": "Dr. Kavita Jain",
+    "department": "Dermatologist",
+    "location": "Bhopal",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/kavita_jain_212.jpg"
+  },
+  {
+    "name": "Dr. Komal Das",
+    "department": "Dermatologist",
+    "location": "Bhopal",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/komal_das_213.jpg"
+  },
+  {
+    "name": "Dr. Dipthi Bansal",
+    "department": "Dermatologist",
+    "location": "Bhopal",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/dipthi_bansal_214.jpg"
+  },
+  {
+    "name": "Dr. Manish Bansal",
+    "department": "Neurologist",
+    "location": "Bhopal",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/manish_bansal_215.jpg"
+  },
+  {
+    "name": "Dr. Deepak Rastogi",
+    "department": "ENT Specialist",
+    "location": "Bhopal",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/deepak_rastogi_216.jpg"
+  },
+  {
+    "name": "Dr. Sameer Patel",
+    "department": "Orthopedic",
+    "location": "Bhopal",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/sameer_patel_217.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Das",
+    "department": "Orthopedic",
+    "location": "Bhopal",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/rakesh_das_218.jpg"
+  },
+  {
+    "name": "Dr. Nitya Yadav",
+    "department": "Psychiatrist",
+    "location": "Bhopal",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/nitya_yadav_219.jpg"
+  },
+  {
+    "name": "Dr. Sahil Gupta",
+    "department": "Pediatrician",
+    "location": "Bhopal",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/sahil_gupta_220.jpg"
+  },
+  {
+    "name": "Dr. Komal Mehra",
+    "department": "Gynaecologist",
+    "location": "Bhopal",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/komal_mehra_221.jpg"
+  },
+  {
+    "name": "Dr. Manish Khan",
+    "department": "Gynaecologist",
+    "location": "Bhopal",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/manish_khan_222.jpg"
+  },
+  {
+    "name": "Dr. Riya Bansal",
+    "department": "Physiotherapist",
+    "location": "Bhopal",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/riya_bansal_223.jpg"
+  },
+  {
+    "name": "Dr. Meera Bansal",
+    "department": "Physiotherapist",
+    "location": "Bhopal",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/meera_bansal_224.jpg"
+  },
+  {
+    "name": "Dr. Isha Khan",
+    "department": "Cardiologist",
+    "location": "Nagpur",
+    "time": "8:00 AM - 3:00 PM",
+    "image": "images/isha_khan_225.jpg"
+  },
+  {
+    "name": "Dr. Neha Mehra",
+    "department": "Dentist",
+    "location": "Nagpur",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/neha_mehra_226.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Das",
+    "department": "Dermatologist",
+    "location": "Nagpur",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/sheetal_das_227.jpg"
+  },
+  {
+    "name": "Dr. Kavita Patel",
+    "department": "Dermatologist",
+    "location": "Nagpur",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/kavita_patel_228.jpg"
+  },
+  {
+    "name": "Dr. Isha Das",
+    "department": "Dermatologist",
+    "location": "Nagpur",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/isha_das_229.jpg"
+  },
+  {
+    "name": "Dr. Nitya Patel",
+    "department": "Neurologist",
+    "location": "Nagpur",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/nitya_patel_230.jpg"
+  },
+  {
+    "name": "Dr. Riya Verma",
+    "department": "Neurologist",
+    "location": "Nagpur",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/riya_verma_231.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Das",
+    "department": "ENT Specialist",
+    "location": "Nagpur",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/sanjay_das_232.jpg"
+  },
+  {
+    "name": "Dr. Arjun Kapoor",
+    "department": "ENT Specialist",
+    "location": "Nagpur",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/arjun_kapoor_233.jpg"
+  },
+  {
+    "name": "Dr. Rahul Singh",
+    "department": "Orthopedic",
+    "location": "Nagpur",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/rahul_singh_234.jpg"
+  },
+  {
+    "name": "Dr. Priya Das",
+    "department": "Orthopedic",
+    "location": "Nagpur",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/priya_das_235.jpg"
+  },
+  {
+    "name": "Dr. Rekha Bhandari",
+    "department": "Psychiatrist",
+    "location": "Nagpur",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/rekha_bhandari_236.jpg"
+  },
+  {
+    "name": "Dr. Meera Das",
+    "department": "Psychiatrist",
+    "location": "Nagpur",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/meera_das_237.jpg"
+  },
+  {
+    "name": "Dr. Rahul Kapoor",
+    "department": "Pediatrician",
+    "location": "Nagpur",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/rahul_kapoor_238.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Tripathi",
+    "department": "Pediatrician",
+    "location": "Nagpur",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/dinesh_tripathi_239.jpg"
+  },
+  {
+    "name": "Dr. Meera Mehra",
+    "department": "Gynaecologist",
+    "location": "Nagpur",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/meera_mehra_240.jpg"
+  },
+  {
+    "name": "Dr. Kavita Tripathi",
+    "department": "Gynaecologist",
+    "location": "Nagpur",
+    "time": "8:00 AM - 3:00 PM",
+    "image": "images/kavita_tripathi_241.jpg"
+  },
+  {
+    "name": "Dr. Rahul Bansal",
+    "department": "Physiotherapist",
+    "location": "Nagpur",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/rahul_bansal_242.jpg"
+  },
+  {
+    "name": "Dr. Priya Patel",
+    "department": "Cardiologist",
+    "location": "Ahmedabad",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/priya_patel_243.jpg"
+  },
+  {
+    "name": "Dr. Vivek Yadav",
+    "department": "Dentist",
+    "location": "Ahmedabad",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/vivek_yadav_244.jpg"
+  },
+  {
+    "name": "Dr. Sameer Khan",
+    "department": "Dermatologist",
+    "location": "Ahmedabad",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/sameer_khan_245.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Sharma",
+    "department": "Dermatologist",
+    "location": "Ahmedabad",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/sheetal_sharma_246.jpg"
+  },
+  {
+    "name": "Dr. Isha Singh",
+    "department": "Dermatologist",
+    "location": "Ahmedabad",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/isha_singh_247.jpg"
+  },
+  {
+    "name": "Dr. Deepak Chauhan",
+    "department": "Dermatologist",
+    "location": "Ahmedabad",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/deepak_chauhan_248.jpg"
+  },
+  {
+    "name": "Dr. Imran Sharma",
+    "department": "Neurologist",
+    "location": "Ahmedabad",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/imran_sharma_249.jpg"
+  },
+  {
+    "name": "Dr. Anjali Gupta",
+    "department": "ENT Specialist",
+    "location": "Ahmedabad",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/anjali_gupta_250.jpg"
+  },
+  {
+    "name": "Dr. Neha Tripathi",
+    "department": "ENT Specialist",
+    "location": "Ahmedabad",
+    "time": "8:00 AM - 3:00 PM",
+    "image": "images/neha_tripathi_251.jpg"
+  },
+  {
+    "name": "Dr. Rekha Kapoor",
+    "department": "Orthopedic",
+    "location": "Ahmedabad",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/rekha_kapoor_252.jpg"
+  },
+  {
+    "name": "Dr. Alok Kashyap",
+    "department": "Orthopedic",
+    "location": "Ahmedabad",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/alok_kashyap_253.jpg"
+  },
+  {
+    "name": "Dr. Meera Thakur",
+    "department": "Psychiatrist",
+    "location": "Ahmedabad",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/meera_thakur_254.jpg"
+  },
+  {
+    "name": "Dr. Riya Verma",
+    "department": "Psychiatrist",
+    "location": "Ahmedabad",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/riya_verma_255.jpg"
+  },
+  {
+    "name": "Dr. Vivek Tripathi",
+    "department": "Pediatrician",
+    "location": "Ahmedabad",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/vivek_tripathi_256.jpg"
+  },
+  {
+    "name": "Dr. Aditi Thakur",
+    "department": "Gynaecologist",
+    "location": "Ahmedabad",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/aditi_thakur_257.jpg"
+  },
+  {
+    "name": "Dr. Priya Bansal",
+    "department": "Gynaecologist",
+    "location": "Ahmedabad",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/priya_bansal_258.jpg"
+  },
+  {
+    "name": "Dr. Dipthi Verma",
+    "department": "Physiotherapist",
+    "location": "Ahmedabad",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/dipthi_verma_259.jpg"
+  },
+  {
+    "name": "Dr. Isha Tripathi",
+    "department": "Cardiologist",
+    "location": "Amritsar",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/isha_tripathi_260.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Bansal",
+    "department": "Dentist",
+    "location": "Amritsar",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/sanjay_bansal_261.jpg"
+  },
+  {
+    "name": "Dr. Anjali Yadav",
+    "department": "Dermatologist",
+    "location": "Amritsar",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/anjali_yadav_262.jpg"
+  },
+  {
+    "name": "Dr. Alok Bhandari",
+    "department": "Dermatologist",
+    "location": "Amritsar",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/alok_bhandari_263.jpg"
+  },
+  {
+    "name": "Dr. Alok Kapoor",
+    "department": "Neurologist",
+    "location": "Amritsar",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/alok_kapoor_264.jpg"
+  },
+  {
+    "name": "Dr. Meera Gupta",
+    "department": "ENT Specialist",
+    "location": "Amritsar",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/meera_gupta_265.jpg"
+  },
+  {
+    "name": "Dr. Dipthi Patel",
+    "department": "Orthopedic",
+    "location": "Amritsar",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/dipthi_patel_266.jpg"
+  },
+  {
+    "name": "Dr. Kavita Jain",
+    "department": "Psychiatrist",
+    "location": "Amritsar",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/kavita_jain_267.jpg"
+  },
+  {
+    "name": "Dr. Kavita Patel",
+    "department": "Pediatrician",
+    "location": "Amritsar",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/kavita_patel_268.jpg"
+  },
+  {
+    "name": "Dr. Arjun Yadav",
+    "department": "Pediatrician",
+    "location": "Amritsar",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/arjun_yadav_269.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Sharma",
+    "department": "Gynaecologist",
+    "location": "Amritsar",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/dinesh_sharma_270.jpg"
+  },
+  {
+    "name": "Dr. Komal Bhandari",
+    "department": "Physiotherapist",
+    "location": "Amritsar",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/komal_bhandari_271.jpg"
+  },
+  {
+    "name": "Dr. Anjali Rastogi",
+    "department": "Physiotherapist",
+    "location": "Amritsar",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/anjali_rastogi_272.jpg"
+  },
+  {
+    "name": "Dr. Alok Yadav",
+    "department": "Cardiologist",
+    "location": "Gorakhpur",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/alok_yadav_273.jpg"
+  },
+  {
+    "name": "Dr. Priya Tripathi",
+    "department": "Cardiologist",
+    "location": "Gorakhpur",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/priya_tripathi_274.jpg"
+  },
+  {
+    "name": "Dr. Alok Kapoor",
+    "department": "Dentist",
+    "location": "Gorakhpur",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/alok_kapoor_275.jpg"
+  },
+  {
+    "name": "Dr. Imran Patel",
+    "department": "Dentist",
+    "location": "Gorakhpur",
+    "time": "8:00 AM - 3:00 PM",
+    "image": "images/imran_patel_276.jpg"
+  },
+  {
+    "name": "Dr. Nitya Gupta",
+    "department": "Dermatologist",
+    "location": "Gorakhpur",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/nitya_gupta_277.jpg"
+  },
+  {
+    "name": "Dr. Imran Das",
+    "department": "Dermatologist",
+    "location": "Gorakhpur",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/imran_das_278.jpg"
+  },
+  {
+    "name": "Dr. Isha Nair",
+    "department": "Dermatologist",
+    "location": "Gorakhpur",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/isha_nair_279.jpg"
+  },
+  {
+    "name": "Dr. Arjun Mehra",
+    "department": "Neurologist",
+    "location": "Gorakhpur",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/arjun_mehra_280.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Kapoor",
+    "department": "Neurologist",
+    "location": "Gorakhpur",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/rakesh_kapoor_281.jpg"
+  },
+  {
+    "name": "Dr. Manish Verma",
+    "department": "ENT Specialist",
+    "location": "Gorakhpur",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/manish_verma_282.jpg"
+  },
+  {
+    "name": "Dr. Priya Khan",
+    "department": "Orthopedic",
+    "location": "Gorakhpur",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/priya_khan_283.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Kashyap",
+    "department": "Orthopedic",
+    "location": "Gorakhpur",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/sanjay_kashyap_284.jpg"
+  },
+  {
+    "name": "Dr. Alok Jain",
+    "department": "Psychiatrist",
+    "location": "Gorakhpur",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/alok_jain_285.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Rastogi",
+    "department": "Psychiatrist",
+    "location": "Gorakhpur",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/dinesh_rastogi_286.jpg"
+  },
+  {
+    "name": "Dr. Priya Srivastava",
+    "department": "Pediatrician",
+    "location": "Gorakhpur",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/priya_srivastava_287.jpg"
+  },
+  {
+    "name": "Dr. Meera Kapoor",
+    "department": "Pediatrician",
+    "location": "Gorakhpur",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/meera_kapoor_288.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Das",
+    "department": "Gynaecologist",
+    "location": "Gorakhpur",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/dinesh_das_289.jpg"
+  },
+  {
+    "name": "Dr. Riya Patel",
+    "department": "Gynaecologist",
+    "location": "Gorakhpur",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/riya_patel_290.jpg"
+  },
+  {
+    "name": "Dr. Manish Verma",
+    "department": "Physiotherapist",
+    "location": "Gorakhpur",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/manish_verma_291.jpg"
+  },
+  {
+    "name": "Dr. Arjun Yadav",
+    "department": "Physiotherapist",
+    "location": "Gorakhpur",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/arjun_yadav_292.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Nair",
+    "department": "Cardiologist",
+    "location": "Raipur",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/dinesh_nair_293.jpg"
+  },
+  {
+    "name": "Dr. Meera Chauhan",
+    "department": "Dentist",
+    "location": "Raipur",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/meera_chauhan_294.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Singh",
+    "department": "Dermatologist",
+    "location": "Raipur",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/rakesh_singh_295.jpg"
+  },
+  {
+    "name": "Dr. Vivek Gupta",
+    "department": "Dermatologist",
+    "location": "Raipur",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/vivek_gupta_296.jpg"
+  },
+  {
+    "name": "Dr. Priya Bhandari",
+    "department": "Dermatologist",
+    "location": "Raipur",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/priya_bhandari_297.jpg"
+  },
+  {
+    "name": "Dr. Aditi Kapoor",
+    "department": "Neurologist",
+    "location": "Raipur",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/aditi_kapoor_298.jpg"
+  },
+  {
+    "name": "Dr. Komal Kapoor",
+    "department": "ENT Specialist",
+    "location": "Raipur",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/komal_kapoor_299.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Gupta",
+    "department": "Orthopedic",
+    "location": "Raipur",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/sanjay_gupta_300.jpg"
+  },
+  {
+    "name": "Dr. Komal Srivastava",
+    "department": "Orthopedic",
+    "location": "Raipur",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/komal_srivastava_301.jpg"
+  },
+  {
+    "name": "Dr. Meera Mehra",
+    "department": "Psychiatrist",
+    "location": "Raipur",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/meera_mehra_302.jpg"
+  },
+  {
+    "name": "Dr. Alok Kapoor",
+    "department": "Psychiatrist",
+    "location": "Raipur",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/alok_kapoor_303.jpg"
+  },
+  {
+    "name": "Dr. Nitya Patel",
+    "department": "Pediatrician",
+    "location": "Raipur",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/nitya_patel_304.jpg"
+  },
+  {
+    "name": "Dr. Meera Jain",
+    "department": "Gynaecologist",
+    "location": "Raipur",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/meera_jain_305.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Das",
+    "department": "Gynaecologist",
+    "location": "Raipur",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/dinesh_das_306.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Tripathi",
+    "department": "Physiotherapist",
+    "location": "Raipur",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/sanjay_tripathi_307.jpg"
+  },
+  {
+    "name": "Dr. Manish Thakur",
+    "department": "Physiotherapist",
+    "location": "Raipur",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/manish_thakur_308.jpg"
+  },
+  {
+    "name": "Dr. Deepak Singh",
+    "department": "Cardiologist",
+    "location": "Siliguri",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/deepak_singh_309.jpg"
+  },
+  {
+    "name": "Dr. Priya Bansal",
+    "department": "Dentist",
+    "location": "Siliguri",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/priya_bansal_310.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Rastogi",
+    "department": "Dentist",
+    "location": "Siliguri",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/sheetal_rastogi_311.jpg"
+  },
+  {
+    "name": "Dr. Imran Chauhan",
+    "department": "Dermatologist",
+    "location": "Siliguri",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/imran_chauhan_312.jpg"
+  },
+  {
+    "name": "Dr. Deepak Verma",
+    "department": "Dermatologist",
+    "location": "Siliguri",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/deepak_verma_313.jpg"
+  },
+  {
+    "name": "Dr. Isha Kapoor",
+    "department": "Dermatologist",
+    "location": "Siliguri",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/isha_kapoor_314.jpg"
+  },
+  {
+    "name": "Dr. Deepak Kashyap",
+    "department": "Neurologist",
+    "location": "Siliguri",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/deepak_kashyap_315.jpg"
+  },
+  {
+    "name": "Dr. Manish Khan",
+    "department": "Neurologist",
+    "location": "Siliguri",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/manish_khan_316.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Bansal",
+    "department": "ENT Specialist",
+    "location": "Siliguri",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/sheetal_bansal_317.jpg"
+  },
+  {
+    "name": "Dr. Komal Bhandari",
+    "department": "Orthopedic",
+    "location": "Siliguri",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/komal_bhandari_318.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Rastogi",
+    "department": "Orthopedic",
+    "location": "Siliguri",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/sanjay_rastogi_319.jpg"
+  },
+  {
+    "name": "Dr. Alok Khan",
+    "department": "Psychiatrist",
+    "location": "Siliguri",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/alok_khan_320.jpg"
+  },
+  {
+    "name": "Dr. Rekha Kashyap",
+    "department": "Pediatrician",
+    "location": "Siliguri",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/rekha_kashyap_321.jpg"
+  },
+  {
+    "name": "Dr. Komal Verma",
+    "department": "Pediatrician",
+    "location": "Siliguri",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/komal_verma_322.jpg"
+  },
+  {
+    "name": "Dr. Aditi Kashyap",
+    "department": "Gynaecologist",
+    "location": "Siliguri",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/aditi_kashyap_323.jpg"
+  },
+  {
+    "name": "Dr. Rahul Chauhan",
+    "department": "Gynaecologist",
+    "location": "Siliguri",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/rahul_chauhan_324.jpg"
+  },
+  {
+    "name": "Dr. Anjali Verma",
+    "department": "Physiotherapist",
+    "location": "Siliguri",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/anjali_verma_325.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Srivastava",
+    "department": "Cardiologist",
+    "location": "Bhagalpur",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/sanjay_srivastava_326.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Mehra",
+    "department": "Cardiologist",
+    "location": "Bhagalpur",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/sheetal_mehra_327.jpg"
+  },
+  {
+    "name": "Dr. Deepak Kashyap",
+    "department": "Dentist",
+    "location": "Bhagalpur",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/deepak_kashyap_328.jpg"
+  },
+  {
+    "name": "Dr. Sameer Sharma",
+    "department": "Dentist",
+    "location": "Bhagalpur",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/sameer_sharma_329.jpg"
+  },
+  {
+    "name": "Dr. Sahil Srivastava",
+    "department": "Dermatologist",
+    "location": "Bhagalpur",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/sahil_srivastava_330.jpg"
+  },
+  {
+    "name": "Dr. Vivek Sharma",
+    "department": "Dermatologist",
+    "location": "Bhagalpur",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/vivek_sharma_331.jpg"
+  },
+  {
+    "name": "Dr. Anjali Kashyap",
+    "department": "Neurologist",
+    "location": "Bhagalpur",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/anjali_kashyap_332.jpg"
+  },
+  {
+    "name": "Dr. Priya Bansal",
+    "department": "ENT Specialist",
+    "location": "Bhagalpur",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/priya_bansal_333.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Thakur",
+    "department": "Orthopedic",
+    "location": "Bhagalpur",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/sanjay_thakur_334.jpg"
+  },
+  {
+    "name": "Dr. Arjun Jain",
+    "department": "Psychiatrist",
+    "location": "Bhagalpur",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/arjun_jain_335.jpg"
+  },
+  {
+    "name": "Dr. Komal Chauhan",
+    "department": "Pediatrician",
+    "location": "Bhagalpur",
+    "time": "8:00 AM - 3:00 PM",
+    "image": "images/komal_chauhan_336.jpg"
+  },
+  {
+    "name": "Dr. Deepak Jain",
+    "department": "Pediatrician",
+    "location": "Bhagalpur",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/deepak_jain_337.jpg"
+  },
+  {
+    "name": "Dr. Aditi Mehra",
+    "department": "Gynaecologist",
+    "location": "Bhagalpur",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/aditi_mehra_338.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Kashyap",
+    "department": "Gynaecologist",
+    "location": "Bhagalpur",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/sheetal_kashyap_339.jpg"
+  },
+  {
+    "name": "Dr. Priya Singh",
+    "department": "Physiotherapist",
+    "location": "Bhagalpur",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/priya_singh_340.jpg"
+  },
+  {
+    "name": "Dr. Rahul Sharma",
+    "department": "Physiotherapist",
+    "location": "Bhagalpur",
+    "time": "8:00 AM - 3:00 PM",
+    "image": "images/rahul_sharma_341.jpg"
+  },
+  {
+    "name": "Dr. Dipthi Bhandari",
+    "department": "Cardiologist",
+    "location": "Jamshedpur",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/dipthi_bhandari_342.jpg"
+  },
+  {
+    "name": "Dr. Komal Kashyap",
+    "department": "Dentist",
+    "location": "Jamshedpur",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/komal_kashyap_343.jpg"
+  },
+  {
+    "name": "Dr. Vivek Singh",
+    "department": "Dentist",
+    "location": "Jamshedpur",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/vivek_singh_344.jpg"
+  },
+  {
+    "name": "Dr. Sahil Jain",
+    "department": "Dermatologist",
+    "location": "Jamshedpur",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/sahil_jain_345.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Gupta",
+    "department": "Dermatologist",
+    "location": "Jamshedpur",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/sanjay_gupta_346.jpg"
+  },
+  {
+    "name": "Dr. Neha Khan",
+    "department": "Dermatologist",
+    "location": "Jamshedpur",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/neha_khan_347.jpg"
+  },
+  {
+    "name": "Dr. Neha Verma",
+    "department": "Neurologist",
+    "location": "Jamshedpur",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/neha_verma_348.jpg"
+  },
+  {
+    "name": "Dr. Sahil Yadav",
+    "department": "ENT Specialist",
+    "location": "Jamshedpur",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/sahil_yadav_349.jpg"
+  },
+  {
+    "name": "Dr. Komal Nair",
+    "department": "ENT Specialist",
+    "location": "Jamshedpur",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/komal_nair_350.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Verma",
+    "department": "Orthopedic",
+    "location": "Jamshedpur",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/sanjay_verma_351.jpg"
+  },
+  {
+    "name": "Dr. Rekha Gupta",
+    "department": "Orthopedic",
+    "location": "Jamshedpur",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/rekha_gupta_352.jpg"
+  },
+  {
+    "name": "Dr. Rekha Srivastava",
+    "department": "Psychiatrist",
+    "location": "Jamshedpur",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/rekha_srivastava_353.jpg"
+  },
+  {
+    "name": "Dr. Anjali Tripathi",
+    "department": "Psychiatrist",
+    "location": "Jamshedpur",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/anjali_tripathi_354.jpg"
+  },
+  {
+    "name": "Dr. Manish Tripathi",
+    "department": "Pediatrician",
+    "location": "Jamshedpur",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/manish_tripathi_355.jpg"
+  },
+  {
+    "name": "Dr. Manish Srivastava",
+    "department": "Gynaecologist",
+    "location": "Jamshedpur",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/manish_srivastava_356.jpg"
+  },
+  {
+    "name": "Dr. Kavita Kapoor",
+    "department": "Gynaecologist",
+    "location": "Jamshedpur",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/kavita_kapoor_357.jpg"
+  },
+  {
+    "name": "Dr. Imran Verma",
+    "department": "Physiotherapist",
+    "location": "Jamshedpur",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/imran_verma_358.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Kapoor",
+    "department": "Physiotherapist",
+    "location": "Jamshedpur",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/dinesh_kapoor_359.jpg"
+  },
+  {
+    "name": "Dr. Imran Khan",
+    "department": "Cardiologist",
+    "location": "Kanpur",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/imran_khan_360.jpg"
+  },
+  {
+    "name": "Dr. Manish Rastogi",
+    "department": "Cardiologist",
+    "location": "Kanpur",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/manish_rastogi_361.jpg"
+  },
+  {
+    "name": "Dr. Sahil Kashyap",
+    "department": "Dentist",
+    "location": "Kanpur",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/sahil_kashyap_362.jpg"
+  },
+  {
+    "name": "Dr. Meera Bhandari",
+    "department": "Dentist",
+    "location": "Kanpur",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/meera_bhandari_363.jpg"
+  },
+  {
+    "name": "Dr. Kavita Bhandari",
+    "department": "Dermatologist",
+    "location": "Kanpur",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/kavita_bhandari_364.jpg"
+  },
+  {
+    "name": "Dr. Manish Singh",
+    "department": "Dermatologist",
+    "location": "Kanpur",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/manish_singh_365.jpg"
+  },
+  {
+    "name": "Dr. Rekha Kashyap",
+    "department": "Dermatologist",
+    "location": "Kanpur",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/rekha_kashyap_366.jpg"
+  },
+  {
+    "name": "Dr. Vivek Rastogi",
+    "department": "Dermatologist",
+    "location": "Kanpur",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/vivek_rastogi_367.jpg"
+  },
+  {
+    "name": "Dr. Nitya Sharma",
+    "department": "Neurologist",
+    "location": "Kanpur",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/nitya_sharma_368.jpg"
+  },
+  {
+    "name": "Dr. Isha Bansal",
+    "department": "Neurologist",
+    "location": "Kanpur",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "images/isha_bansal_369.jpg"
+  },
+  {
+    "name": "Dr. Dipthi Thakur",
+    "department": "ENT Specialist",
+    "location": "Kanpur",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/dipthi_thakur_370.jpg"
+  },
+  {
+    "name": "Dr. Alok Sharma",
+    "department": "ENT Specialist",
+    "location": "Kanpur",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/alok_sharma_371.jpg"
+  },
+  {
+    "name": "Dr. Nitya Chauhan",
+    "department": "Orthopedic",
+    "location": "Kanpur",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/nitya_chauhan_372.jpg"
+  },
+  {
+    "name": "Dr. Isha Chauhan",
+    "department": "Psychiatrist",
+    "location": "Kanpur",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/isha_chauhan_373.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Kapoor",
+    "department": "Psychiatrist",
+    "location": "Kanpur",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/rakesh_kapoor_374.jpg"
+  },
+  {
+    "name": "Dr. Rekha Bansal",
+    "department": "Pediatrician",
+    "location": "Kanpur",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/rekha_bansal_375.jpg"
+  },
+  {
+    "name": "Dr. Neha Bhandari",
+    "department": "Gynaecologist",
+    "location": "Kanpur",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/neha_bhandari_376.jpg"
+  },
+  {
+    "name": "Dr. Deepak Srivastava",
+    "department": "Gynaecologist",
+    "location": "Kanpur",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/deepak_srivastava_377.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Patel",
+    "department": "Physiotherapist",
+    "location": "Kanpur",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/sanjay_patel_378.jpg"
+  },
+  {
+    "name": "Dr. Nitya Sharma",
+    "department": "Cardiologist",
+    "location": "Meerut",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/nitya_sharma_379.jpg"
+  },
+  {
+    "name": "Dr. Neha Jain",
+    "department": "Dentist",
+    "location": "Meerut",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/neha_jain_380.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Verma",
+    "department": "Dentist",
+    "location": "Meerut",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/rakesh_verma_381.jpg"
+  },
+  {
+    "name": "Dr. Anjali Sharma",
+    "department": "Dermatologist",
+    "location": "Meerut",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/anjali_sharma_382.jpg"
+  },
+  {
+    "name": "Dr. Alok Mehra",
+    "department": "Dermatologist",
+    "location": "Meerut",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/alok_mehra_383.jpg"
+  },
+  {
+    "name": "Dr. Sahil Nair",
+    "department": "Neurologist",
+    "location": "Meerut",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/sahil_nair_384.jpg"
+  },
+  {
+    "name": "Dr. Meera Gupta",
+    "department": "ENT Specialist",
+    "location": "Meerut",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/meera_gupta_385.jpg"
+  },
+  {
+    "name": "Dr. Rahul Jain",
+    "department": "ENT Specialist",
+    "location": "Meerut",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/rahul_jain_386.jpg"
+  },
+  {
+    "name": "Dr. Aditi Khan",
+    "department": "Orthopedic",
+    "location": "Meerut",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/aditi_khan_387.jpg"
+  },
+  {
+    "name": "Dr. Imran Rastogi",
+    "department": "Orthopedic",
+    "location": "Meerut",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/imran_rastogi_388.jpg"
+  },
+  {
+    "name": "Dr. Rahul Kashyap",
+    "department": "Psychiatrist",
+    "location": "Meerut",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/rahul_kashyap_389.jpg"
+  },
+  {
+    "name": "Dr. Nitya Jain",
+    "department": "Pediatrician",
+    "location": "Meerut",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/nitya_jain_390.jpg"
+  },
+  {
+    "name": "Dr. Isha Bansal",
+    "department": "Pediatrician",
+    "location": "Meerut",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/isha_bansal_391.jpg"
+  },
+  {
+    "name": "Dr. Imran Mehra",
+    "department": "Gynaecologist",
+    "location": "Meerut",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/imran_mehra_392.jpg"
+  },
+  {
+    "name": "Dr. Rahul Jain",
+    "department": "Physiotherapist",
+    "location": "Meerut",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/rahul_jain_393.jpg"
+  },
+  {
+    "name": "Dr. Nitya Gupta",
+    "department": "Cardiologist",
+    "location": "Aligarh",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/nitya_gupta_394.jpg"
+  },
+  {
+    "name": "Dr. Arjun Kapoor",
+    "department": "Cardiologist",
+    "location": "Aligarh",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/arjun_kapoor_395.jpg"
+  },
+  {
+    "name": "Dr. Priya Kapoor",
+    "department": "Dentist",
+    "location": "Aligarh",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/priya_kapoor_396.jpg"
+  },
+  {
+    "name": "Dr. Sameer Thakur",
+    "department": "Dermatologist",
+    "location": "Aligarh",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/sameer_thakur_397.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Chauhan",
+    "department": "Dermatologist",
+    "location": "Aligarh",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/sheetal_chauhan_398.jpg"
+  },
+  {
+    "name": "Dr. Kavita Nair",
+    "department": "Dermatologist",
+    "location": "Aligarh",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/kavita_nair_399.jpg"
+  },
+  {
+    "name": "Dr. Neha Srivastava",
+    "department": "Neurologist",
+    "location": "Aligarh",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/neha_srivastava_400.jpg"
+  },
+  {
+    "name": "Dr. Neha Bhandari",
+    "department": "ENT Specialist",
+    "location": "Aligarh",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/neha_bhandari_401.jpg"
+  },
+  {
+    "name": "Dr. Sameer Gupta",
+    "department": "Orthopedic",
+    "location": "Aligarh",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/sameer_gupta_402.jpg"
+  },
+  {
+    "name": "Dr. Rahul Tripathi",
+    "department": "Psychiatrist",
+    "location": "Aligarh",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/rahul_tripathi_403.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Jain",
+    "department": "Psychiatrist",
+    "location": "Aligarh",
+    "time": "10:00 AM - 6:00 PM",
+    "image": "images/sheetal_jain_404.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Sharma",
+    "department": "Pediatrician",
+    "location": "Aligarh",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/dinesh_sharma_405.jpg"
+  },
+  {
+    "name": "Dr. Nitya Chauhan",
+    "department": "Pediatrician",
+    "location": "Aligarh",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/nitya_chauhan_406.jpg"
+  },
+  {
+    "name": "Dr. Vivek Yadav",
+    "department": "Gynaecologist",
+    "location": "Aligarh",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/vivek_yadav_407.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Gupta",
+    "department": "Gynaecologist",
+    "location": "Aligarh",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/rakesh_gupta_408.jpg"
+  },
+  {
+    "name": "Dr. Deepak Patel",
+    "department": "Physiotherapist",
+    "location": "Aligarh",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/deepak_patel_409.jpg"
+  },
+  {
+    "name": "Dr. Alok Gupta",
+    "department": "Physiotherapist",
+    "location": "Aligarh",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/alok_gupta_410.jpg"
+  },
+  {
+    "name": "Dr. Aditi Khan",
+    "department": "Cardiologist",
+    "location": "Agra",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/aditi_khan_411.jpg"
+  },
+  {
+    "name": "Dr. Vivek Bhandari",
+    "department": "Cardiologist",
+    "location": "Agra",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/vivek_bhandari_412.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Srivastava",
+    "department": "Dentist",
+    "location": "Agra",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/rakesh_srivastava_413.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Singh",
+    "department": "Dermatologist",
+    "location": "Agra",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/rakesh_singh_414.jpg"
+  },
+  {
+    "name": "Dr. Deepak Kapoor",
+    "department": "Dermatologist",
+    "location": "Agra",
+    "time": "8:00 AM - 3:00 PM",
+    "image": "images/deepak_kapoor_415.jpg"
+  },
+  {
+    "name": "Dr. Neha Bansal",
+    "department": "Dermatologist",
+    "location": "Agra",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/neha_bansal_416.jpg"
+  },
+  {
+    "name": "Dr. Vivek Rastogi",
+    "department": "Neurologist",
+    "location": "Agra",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/vivek_rastogi_417.jpg"
+  },
+  {
+    "name": "Dr. Imran Bansal",
+    "department": "ENT Specialist",
+    "location": "Agra",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/imran_bansal_418.jpg"
+  },
+  {
+    "name": "Dr. Riya Kashyap",
+    "department": "ENT Specialist",
+    "location": "Agra",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/riya_kashyap_419.jpg"
+  },
+  {
+    "name": "Dr. Meera Bansal",
+    "department": "Orthopedic",
+    "location": "Agra",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/meera_bansal_420.jpg"
+  },
+  {
+    "name": "Dr. Priya Jain",
+    "department": "Psychiatrist",
+    "location": "Agra",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/priya_jain_421.jpg"
+  },
+  {
+    "name": "Dr. Rahul Sharma",
+    "department": "Psychiatrist",
+    "location": "Agra",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/rahul_sharma_422.jpg"
+  },
+  {
+    "name": "Dr. Vivek Kapoor",
+    "department": "Pediatrician",
+    "location": "Agra",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/vivek_kapoor_423.jpg"
+  },
+  {
+    "name": "Dr. Vivek Mehra",
+    "department": "Pediatrician",
+    "location": "Agra",
+    "time": "10:00 AM - 3:00 PM",
+    "image": "images/vivek_mehra_424.jpg"
+  },
+  {
+    "name": "Dr. Arjun Khan",
+    "department": "Gynaecologist",
+    "location": "Agra",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/arjun_khan_425.jpg"
+  },
+  {
+    "name": "Dr. Vivek Chauhan",
+    "department": "Physiotherapist",
+    "location": "Agra",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/vivek_chauhan_426.jpg"
+  },
+  {
+    "name": "Dr. Neha Das",
+    "department": "Cardiologist",
+    "location": "Darbhanga",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/neha_das_427.jpg"
+  },
+  {
+    "name": "Dr. Deepak Mehra",
+    "department": "Dentist",
+    "location": "Darbhanga",
+    "time": "11:00 AM - 5:00 PM",
+    "image": "images/deepak_mehra_428.jpg"
+  },
+  {
+    "name": "Dr. Arjun Srivastava",
+    "department": "Dentist",
+    "location": "Darbhanga",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/arjun_srivastava_429.jpg"
+  },
+  {
+    "name": "Dr. Manish Gupta",
+    "department": "Dermatologist",
+    "location": "Darbhanga",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/manish_gupta_430.jpg"
+  },
+  {
+    "name": "Dr. Manish Tripathi",
+    "department": "Dermatologist",
+    "location": "Darbhanga",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/manish_tripathi_431.jpg"
+  },
+  {
+    "name": "Dr. Rekha Tripathi",
+    "department": "Dermatologist",
+    "location": "Darbhanga",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/rekha_tripathi_432.jpg"
+  },
+  {
+    "name": "Dr. Deepak Bhandari",
+    "department": "Neurologist",
+    "location": "Darbhanga",
+    "time": "11:00 AM - 2:00 PM",
+    "image": "images/deepak_bhandari_433.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Chauhan",
+    "department": "Neurologist",
+    "location": "Darbhanga",
+    "time": "9:00 AM - 4:00 PM",
+    "image": "images/sanjay_chauhan_434.jpg"
+  },
+  {
+    "name": "Dr. Anjali Singh",
+    "department": "ENT Specialist",
+    "location": "Darbhanga",
+    "time": "8:00 AM - 3:00 PM",
+    "image": "images/anjali_singh_435.jpg"
+  },
+  {
+    "name": "Dr. Sameer Nair",
+    "department": "Orthopedic",
+    "location": "Darbhanga",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/sameer_nair_436.jpg"
+  },
+  {
+    "name": "Dr. Meera Kapoor",
+    "department": "Psychiatrist",
+    "location": "Darbhanga",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/meera_kapoor_437.jpg"
+  },
+  {
+    "name": "Dr. Sanjay Nair",
+    "department": "Pediatrician",
+    "location": "Darbhanga",
+    "time": "9:00 AM - 2:00 PM",
+    "image": "images/sanjay_nair_438.jpg"
+  },
+  {
+    "name": "Dr. Rahul Das",
+    "department": "Pediatrician",
+    "location": "Darbhanga",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/rahul_das_439.jpg"
+  },
+  {
+    "name": "Dr. Dipthi Patel",
+    "department": "Gynaecologist",
+    "location": "Darbhanga",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/dipthi_patel_440.jpg"
+  },
+  {
+    "name": "Dr. Komal Kapoor",
+    "department": "Physiotherapist",
+    "location": "Darbhanga",
+    "time": "11:00 AM - 6:00 PM",
+    "image": "images/komal_kapoor_441.jpg"
+  },
+  {
+    "name": "Dr. Nitya Patel",
+    "department": "Cardiologist",
+    "location": "Madhubani",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/nitya_patel_442.jpg"
+  },
+  {
+    "name": "Dr. Manish Singh",
+    "department": "Dentist",
+    "location": "Madhubani",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/manish_singh_443.jpg"
+  },
+  {
+    "name": "Dr. Vivek Chauhan",
+    "department": "Dermatologist",
+    "location": "Madhubani",
+    "time": "8:00 AM - 6:00 PM",
+    "image": "images/vivek_chauhan_444.jpg"
+  },
+  {
+    "name": "Dr. Isha Jain",
+    "department": "Dermatologist",
+    "location": "Madhubani",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/isha_jain_445.jpg"
+  },
+  {
+    "name": "Dr. Aditi Mehra",
+    "department": "Dermatologist",
+    "location": "Madhubani",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/aditi_mehra_446.jpg"
+  },
+  {
+    "name": "Dr. Sheetal Bansal",
+    "department": "Neurologist",
+    "location": "Madhubani",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/sheetal_bansal_447.jpg"
+  },
+  {
+    "name": "Dr. Deepak Kapoor",
+    "department": "Neurologist",
+    "location": "Madhubani",
+    "time": "11:00 AM - 3:00 PM",
+    "image": "images/deepak_kapoor_448.jpg"
+  },
+  {
+    "name": "Dr. Sameer Jain",
+    "department": "ENT Specialist",
+    "location": "Madhubani",
+    "time": "10:00 AM - 4:00 PM",
+    "image": "images/sameer_jain_449.jpg"
+  },
+  {
+    "name": "Dr. Rakesh Chauhan",
+    "department": "Orthopedic",
+    "location": "Madhubani",
+    "time": "10:00 AM - 2:00 PM",
+    "image": "images/rakesh_chauhan_450.jpg"
+  },
+  {
+    "name": "Dr. Meera Mehra",
+    "department": "Orthopedic",
+    "location": "Madhubani",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/meera_mehra_451.jpg"
+  },
+  {
+    "name": "Dr. Anjali Kashyap",
+    "department": "Psychiatrist",
+    "location": "Madhubani",
+    "time": "8:00 AM - 5:00 PM",
+    "image": "images/anjali_kashyap_452.jpg"
+  },
+  {
+    "name": "Dr. Isha Thakur",
+    "department": "Psychiatrist",
+    "location": "Madhubani",
+    "time": "8:00 AM - 2:00 PM",
+    "image": "images/isha_thakur_453.jpg"
+  },
+  {
+    "name": "Dr. Aditi Kapoor",
+    "department": "Pediatrician",
+    "location": "Madhubani",
+    "time": "11:00 AM - 4:00 PM",
+    "image": "images/aditi_kapoor_454.jpg"
+  },
+  {
+    "name": "Dr. Neha Bhandari",
+    "department": "Pediatrician",
+    "location": "Madhubani",
+    "time": "8:00 AM - 4:00 PM",
+    "image": "images/neha_bhandari_455.jpg"
+  },
+  {
+    "name": "Dr. Alok Jain",
+    "department": "Gynaecologist",
+    "location": "Madhubani",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/alok_jain_456.jpg"
+  },
+  {
+    "name": "Dr. Vivek Srivastava",
+    "department": "Gynaecologist",
+    "location": "Madhubani",
+    "time": "9:00 AM - 3:00 PM",
+    "image": "images/vivek_srivastava_457.jpg"
+  },
+  {
+    "name": "Dr. Dinesh Srivastava",
+    "department": "Physiotherapist",
+    "location": "Madhubani",
+    "time": "9:00 AM - 5:00 PM",
+    "image": "images/dinesh_srivastava_458.jpg"
+  },
+  {
+    "name": "Dr. Vivek Kashyap",
+    "department": "Physiotherapist",
+    "location": "Madhubani",
+    "time": "9:00 AM - 6:00 PM",
+    "image": "images/vivek_kashyap_459.jpg"
+  }
+]
